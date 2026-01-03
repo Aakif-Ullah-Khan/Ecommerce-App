@@ -1,0 +1,212 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods Pro",
+    "description": "Wireless noise-cancelling earbuds.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a41552231693",
+    "price": 249.99
+  },
+  {
+    "id": 2,
+    "name": "Apple Watch Series 9",
+    "description": "Advanced smartwatch with health tracking.",
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a",
+    "price": 399.99
+  },
+  {
+    "id": 3,
+    "name": "Bose Noise Cancelling Headphones",
+    "description": "Premium over-ear noise cancelling headphones.",
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b",
+    "price": 349.99
+  },
+  {
+    "id": 4,
+    "name": "Dyson V11 Vacuum",
+    "description": "High-performance cordless vacuum cleaner.",
+    "image": "https://images.unsplash.com/photo-1616627983541-6c2f46f64c91",
+    "price": 699.99
+  },
+  {
+    "id": 5,
+    "name": "MacBook Pro 14",
+    "description": "Powerful laptop with M-series chip.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8",
+    "price": 1999.99
+  },
+  {
+    "id": 6,
+    "name": "iPhone 15 Pro",
+    "description": "Latest iPhone with advanced camera system.",
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569",
+    "price": 999.99
+  },
+  {
+    "id": 7,
+    "name": "Samsung Galaxy S23",
+    "description": "Flagship Android smartphone.",
+    "image": "https://images.unsplash.com/photo-1678911820864-e2c567c655d7",
+    "price": 899.99
+  },
+  {
+    "id": 8,
+    "name": "Sony PlayStation 5",
+    "description": "Next-gen gaming console.",
+    "image": "https://images.unsplash.com/photo-1606813902914-4e4c6f78bdb0",
+    "price": 499.99
+  },
+  {
+    "id": 9,
+    "name": "Xbox Series X",
+    "description": "High-performance gaming console.",
+    "image": "https://images.unsplash.com/photo-1605902711622-cfb43c44367f",
+    "price": 499.99
+  },
+  {
+    "id": 10,
+    "name": "Nintendo Switch",
+    "description": "Portable and home gaming console.",
+    "image": "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e",
+    "price": 299.99
+  },
+  {
+    "id": 11,
+    "name": "Canon DSLR Camera",
+    "description": "Professional photography camera.",
+    "image": "https://images.unsplash.com/photo-1519183071298-a2962be96c40",
+    "price": 899.99
+  },
+  {
+    "id": 12,
+    "name": "GoPro Hero 11",
+    "description": "Action camera for adventure filming.",
+    "image": "https://images.unsplash.com/photo-1517420878257-dfa82d479c19",
+    "price": 399.99
+  },
+  {
+    "id": 13,
+    "name": "Wireless Bluetooth Speaker",
+    "description": "Portable speaker with deep bass.",
+    "image": "https://images.unsplash.com/photo-1585386959984-a41552231693",
+    "price": 129.99
+  },
+  {
+    "id": 14,
+    "name": "Smart LED TV 55\"",
+    "description": "4K Ultra HD Smart Television.",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1",
+    "price": 799.99
+  },
+  {
+    "id": 15,
+    "name": "Mechanical Keyboard",
+    "description": "RGB backlit mechanical keyboard.",
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+    "price": 149.99
+  },
+  {
+    "id": 16,
+    "name": "Gaming Mouse",
+    "description": "High precision gaming mouse.",
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7",
+    "price": 79.99
+  },
+  {
+    "id": 17,
+    "name": "Laptop Backpack",
+    "description": "Water-resistant travel backpack.",
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "price": 89.99
+  },
+  {
+    "id": 18,
+    "name": "Wireless Charger",
+    "description": "Fast wireless charging pad.",
+    "image": "https://images.unsplash.com/photo-1618477247222-acbdb0e159b3",
+    "price": 39.99
+  },
+  {
+    "id": 19,
+    "name": "Smart Home Camera",
+    "description": "Indoor security camera with night vision.",
+    "image": "https://images.unsplash.com/photo-1558002038-1055907df827",
+    "price": 99.99
+  },
+  {
+    "id": 20,
+    "name": "Bluetooth Earbuds",
+    "description": "Compact true wireless earbuds.",
+    "image": "https://images.unsplash.com/photo-1606220838315-056192d5e927",
+    "price": 89.99
+  },
+  {
+    "id": 21,
+    "name": "Coffee Maker",
+    "description": "Automatic drip coffee machine.",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93",
+    "price": 129.99
+  },
+  {
+    "id": 22,
+    "name": "Electric Kettle",
+    "description": "Fast boiling stainless steel kettle.",
+    "image": "https://images.unsplash.com/photo-1546549032-9571cd6b27df",
+    "price": 59.99
+  },
+  {
+    "id": 23,
+    "name": "Office Chair",
+    "description": "Ergonomic chair with lumbar support.",
+    "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7",
+    "price": 249.99
+  },
+  {
+    "id": 24,
+    "name": "Desk Lamp",
+    "description": "LED desk lamp with adjustable brightness.",
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "price": 49.99
+  },
+  {
+    "id": 25,
+    "name": "Fitness Tracker",
+    "description": "Track steps, heart rate, and sleep.",
+    "image": "https://images.unsplash.com/photo-1557821552-17105176677c",
+    "price": 99.99
+  },
+  {
+    "id": 26,
+    "name": "Electric Toothbrush",
+    "description": "Rechargeable smart toothbrush.",
+    "image": "https://images.unsplash.com/photo-1588776814546-1ffcf47267a5",
+    "price": 69.99
+  },
+  {
+    "id": 27,
+    "name": "Smart Thermostat",
+    "description": "Energy-saving smart thermostat.",
+    "image": "https://images.unsplash.com/photo-1581092580497-e0d23cbdf1dc",
+    "price": 199.99
+  },
+  {
+    "id": 28,
+    "name": "Portable SSD",
+    "description": "High-speed external SSD storage.",
+    "image": "https://images.unsplash.com/photo-1628557118391-56cd62c9f2cb",
+    "price": 179.99
+  },
+  {
+    "id": 29,
+    "name": "Noise Cancelling Earphones",
+    "description": "In-ear noise cancelling earphones.",
+    "image": "https://images.unsplash.com/photo-1618424181497-157f25b6ddd5",
+    "price": 149.99
+  },
+  {
+    "id": 30,
+    "name": "Smart Power Bank",
+    "description": "Fast charging power bank with display.",
+    "image": "https://images.unsplash.com/photo-1609592427001-5c0a2c8b9d18",
+    "price": 59.99
+  }
+]
